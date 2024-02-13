@@ -31,6 +31,6 @@
 
 ## Summary 
 
-    These models seem to perform well in predicting both healthy and high-risk loans. The oversampled data predicts both the healthy loan and high-risk loans better.  There's no suprise that the predictions are similar, although, the oversampled regression has a higher recall rate for high-risk loans, making it the better option. With the recall rate being 0.99 for high-risk loans, we see that it was more effictive in correctly identifying them. My only concern is that the oversampled model is at a higher risk for overfitting. 
+These models seem to perform well in predicting both healthy and high-risk loans. The oversampled data predicts both the healthy loan and high-risk loans better.  There's no suprise that the predictions are similar, although, the oversampled regression has a higher recall rate for high-risk loans, making it the better option. With the recall rate being 0.99 for high-risk loans, we see that it was more effictive in correctly identifying them. My only concern is that the oversampled model is at a higher risk for overfitting. 
 
 
